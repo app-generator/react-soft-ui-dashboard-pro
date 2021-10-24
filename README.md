@@ -1,4 +1,4 @@
-# [Full-stack Soft Dashboard PRO](https://appseed.us/product/full-stack/react-soft-dashboard)
+# [Full-Stack Soft Dashboard PRO](https://appseed.us/product/full-stack/react-soft-dashboard)
 
 Made of hundred of elements, designed blocks, and fully coded pages, Soft UI Dashboard PRO is ready to help you create stunning websites and web apps. The product comes with a simple JWT authentication flow: **login/register/logout** powered by a [Node JS API Server](https://github.com/app-generator/api-server-nodejs-pro) (PRO version). 
 
