@@ -1,5 +1,10 @@
 # Change Log
 
+## [2.0.2] 2022-01-08
+### Fixes
+
+- Fix the logout issue
+
 ## [2.0.1] 2021-10-24
 ### Improvements
 
