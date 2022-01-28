@@ -1,5 +1,12 @@
 # Change Log
 
+## [2.0.3] 2022-01-28
+### Improvements
+
+- `Logout` - remove the page randomization
+- Testing on multiple NodeJS Versions
+  - Node `v16.13.0`, `v14.15.0`, `v12.22.0` 
+
 ## [2.0.2] 2022-01-08
 ### Fixes
 

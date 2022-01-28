@@ -20,7 +20,17 @@ Made of hundred of elements, designed blocks, and fully coded pages, Soft UI Das
 - [Node JS API Server](https://github.com/app-generator/api-server-nodejs-pro) (PRO version) - the backend server 
 - Support via **Github** (issues tracker) and [Discord](https://appseed.us/support) - LIVE Assistance 
 
-<br >
+<br />
+
+> Tested with:
+
+| NodeJS | NPM | YARN | Status | 
+| --- | --- | --- | --- | 
+| `v16.13.0` | `v8.1.0`   | `v1.22.5` | ✔️ | 
+| `v14.15.0` | `v6.14.8`  | `v1.22.5` | ✔️ |
+| `v12.22.0` | `v6.14.11` | `v1.22.5` | ✔️ |
+
+<br />
 
 ![Full-stack Soft Dashboard PRO - Full-stack product built in React and Node JS by AppSeed and Creative-Tim](https://user-images.githubusercontent.com/51070104/138590484-794474cc-c709-458e-8340-695743bc9788.gif)
 
@@ -30,7 +40,7 @@ Made of hundred of elements, designed blocks, and fully coded pages, Soft UI Das
 
 To use the product Node JS (>= 12.x) is required and GIT to clone/download the project from the public repository.
 
-**Step #1** - Clone the project
+> **Step #1** - Clone the project
 
 ```bash
 $ git clone https://github.com/app-generator/priv-react-soft-ui-dashboard-pro.git
@@ -39,7 +49,7 @@ $ cd priv-react-soft-ui-dashboard-pro
 
 <br >
 
-**Step #2** - Install dependencies via NPM or yarn
+> **Step #2** - Install dependencies via NPM or yarn
 
 ```bash
 $ npm i
@@ -49,7 +59,7 @@ $ yarn
 
 <br />
 
-**Step #3** - Start in development mode
+> **Step #3** - Start in development mode
 
 ```bash
 $ npm run start 
