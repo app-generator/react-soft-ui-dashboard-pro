@@ -1,5 +1,15 @@
 # Change Log
 
+## [2.0.4] 2022-12-03
+### Changes
+
+- Bump UI to v4.0.0
+  - Rename components prefix from Sui to Soft.
+  - Update dependencies.
+  - Fix the peer dependencies issue.
+  - Fix the eslint issue with react-app.
+  - Migrate eslint config from airbnb to react-app.
+
 ## [2.0.3] 2022-01-28
 ### Improvements
 

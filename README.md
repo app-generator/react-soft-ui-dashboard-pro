@@ -1,24 +1,23 @@
-# [Full-Stack Soft Dashboard PRO](https://appseed.us/product/full-stack/react-soft-dashboard)
+# [Full-Stack Soft Dashboard PRO](https://appseed.us/product/soft-ui-dashboard-pro/full-stack/)
 
-Made of hundred of elements, designed blocks, and fully coded pages, Soft UI Dashboard PRO is ready to help you create stunning websites and web apps. The product comes with a simple JWT authentication flow: **login/register/logout** powered by a [Node JS API Server](https://github.com/app-generator/api-server-nodejs-pro) (PRO version). 
+Made of hundred of elements, designed blocks, and fully coded pages, Soft UI Dashboard PRO is ready to help you create stunning websites and web apps. The product comes with a simple JWT authentication flow: **login/register/logout** powered by a [Node JS API Server](https://github.com/app-generator/api-server-nodejs). 
+
+- 👉 [Full-stack Soft Dashboard PRO](https://appseed.us/product/soft-ui-dashboard-pro/full-stack/) - product page
+- 👉 [Full-stack Soft Dashboard PRO](https://fullstack-react-soft-dashboard.appseed-srv1.com/) - LIVE Demo
 
 <br />
 
 > Features
 
-- Premium Material UI design - Crafted by [Creative-Tim](https://bit.ly/3fKQZaL/)
-- React, Redux, Redux-persist
-- Authentication: JWT Login/Register/Logout
-- [Node JS API server](https://github.com/app-generator/api-server-nodejs-pro) for a complete full-stack experience 
+- ✅ Innovative MUI Design - Crafted by [Creative-Tim](https://bit.ly/3fKQZaL)
+- ✅ React, Redux, Redux-persist
+- ✅ Authentication: JWT Login/Register/Logout
+- ✅ Full-stack ready using **[Node JS API Server](https://github.com/app-generator/api-server-nodejs)** (open-source project)
+  - Features: Typescript / SQLite / TypeORM / Joy (validation) / Passport library - `passport-jwt` strategy.
 
 <br />
 
-> Links
-
-- [Full-stack Soft Dashboard PRO](https://appseed.us/product/full-stack/react-soft-dashboard) - product page
-- [Full-stack Soft Dashboard PRO](https://fullstack-react-soft-dashboard.appseed-srv1.com/) - LIVE Demo
-- [Node JS API Server](https://github.com/app-generator/api-server-nodejs-pro) (PRO version) - the backend server 
-- Support via **Github** (issues tracker) and [Discord](https://appseed.us/support) - LIVE Assistance 
+![Full-Stack Soft Dashboard PRO - Premium starter provided by AppSeed and Creative-Tim.](https://user-images.githubusercontent.com/51070104/205434351-c3f7b861-0249-4f57-b5ca-048a7288e327.png)
 
 <br />
 
@@ -32,24 +31,20 @@ Made of hundred of elements, designed blocks, and fully coded pages, Soft UI Das
 
 <br />
 
-![Full-stack Soft Dashboard PRO - Full-stack product built in React and Node JS by AppSeed and Creative-Tim](https://user-images.githubusercontent.com/51070104/138590484-794474cc-c709-458e-8340-695743bc9788.gif)
-
-<br />
-
 ## How to use it
 
 To use the product Node JS (>= 12.x) is required and GIT to clone/download the project from the public repository.
 
-> **Step #1** - Clone the project
+> 👉 **Step 1** - Download the product from the official page
 
 ```bash
-$ git clone https://github.com/app-generator/priv-react-soft-ui-dashboard-pro.git
-$ cd priv-react-soft-ui-dashboard-pro
+$ unzip react-soft-ui-dashboard-pro.zip
+$ cd react-soft-ui-dashboard-pro
 ```
 
 <br >
 
-> **Step #2** - Install dependencies via NPM or yarn
+> 👉 **Step 2** - Install dependencies via NPM or yarn
 
 ```bash
 $ npm i
@@ -59,7 +54,17 @@ $ yarn
 
 <br />
 
-> **Step #3** - Start in development mode
+> 👉 **Step 3** - Edit the `.env` using the template `.env.sample`. 
+
+```env
+
+REACT_APP_BACKEND_SERVER='http://localhost:5000/api/'
+
+```
+
+<br />
+
+> 👉 **Step 4** - Start in development mode
 
 ```bash
 $ npm run start 
@@ -159,4 +164,4 @@ The product is also open-source and cis already configured to work with Berry Da
 <br />
 
 ---
-[Full-stack Soft Dashboard PRO](https://appseed.us/product/full-stack/react-soft-dashboard) - Provided by [Creative-Tim](https://bit.ly/3fKQZaL/) and **AppSeed [App Generator](https://appseed.us/app-generator)**. 
+[Full-Stack Soft Dashboard PRO](https://appseed.us/product/soft-ui-dashboard-pro/full-stack/) - Provided by [Creative-Tim](https://bit.ly/3fKQZaL/) and `AppSeed`. 
